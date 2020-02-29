@@ -31,7 +31,7 @@ if ($conn->query($sql) === TRUE) {
 
 
 $conn->close();
-    header('refresh:3; url=http://localhost/github/session-2/exercise2/read-edit-link.php')
+    header('refresh:3; url=http://localhost/github/exercise/session-2/exercise2/read-edit-link.php')
 ?>
 
 <h1>Enter a new record</h1>
