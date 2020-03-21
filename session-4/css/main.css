@@ -1,0 +1,9 @@
+@charset "utf-8";
+#film {
+    margin-top: 20px;
+}
+
+.row .col-12.col-md-4 h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
